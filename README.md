@@ -1,6 +1,6 @@
 # vBulletin-Discord-Bot
 
-Gets updates from a vBulletin RSS feed and posts them in a discord channel.
+Gets updates from a vBulletin RSS feed and posts them in a discord channel. 
 
 ## Setup
 
